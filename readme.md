@@ -43,6 +43,7 @@ To help solve this problem, we created TodoMVC - a project which offers the same
 
 We also have a number of in-progress applications in Labs:
 
+- [Ractive](http://ractivejs.org)
 - [React](http://facebook.github.io/react)
 - [Meteor](http://meteor.com)
 - [Derby](http://derbyjs.com)
@@ -80,6 +81,7 @@ We also have a number of in-progress applications in Labs:
 - [Enyo + Backbone.js](http://enyojs.com/)
 - [SAPUI5](http://scn.sap.com/community/developer-center/front-end)
 - [Lavaca](http://getlavaca.com) + [RequireJS](http://requirejs.org) (using AMD)
+- [ComponentJS](http://componentjs.com)
 
 ## Live demos
 
