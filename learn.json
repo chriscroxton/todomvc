@@ -1843,7 +1843,7 @@
 	},
     "kioo": {
 		"name": "Kioo",
-		"description": "Kioo is a ClojureScript library over Facebook's React'.",
+		"description": "Kioo is a ClojureScript library over Facebook's React that works well David Nolan's Om library.",
 		"homepage": "https://github.com/ckirkendall/kioo",
 		"examples": [{
 			"name": "Architecture Examples",
@@ -1854,6 +1854,9 @@
 			"links": [{
 				"name": "Tutorial",
 				"url": "https://github.com/ckirkendall/kioo"
+			}, {
+				"name": "Om Information",
+				"url": "http://swannodette.github.io"
 			}]
 		}]
 	},
